@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/evo-logo-dark.svg">
+    <img src="assets/evo-logo-light.svg" alt="Proto" width="120">
+  </picture>
+</p>
+
 # Proto for Gemini CLI
 
 A [Gemini CLI](https://github.com/google-gemini/gemini-cli) extension that connects Gemini to
@@ -12,12 +19,6 @@ gemini extensions install https://github.com/evo-design/proto-gemini-extension
 
 Start Gemini CLI and run `/mcp auth proto` to sign in to your Proto account. Then run `/mcp` to
 confirm that the server is connected.
-
-## Requirements
-
-- A Proto account. Create one at https://proto.evodesign.org/.
-- A connected Modal account for GPU tools. Connect it at
-  https://proto.evodesign.org/settings/account/modal. Runs are billed to your Modal account.
 
 ## Without the extension
 
