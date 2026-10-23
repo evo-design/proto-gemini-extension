@@ -1,0 +1,9 @@
+{
+  "name": "proto",
+  "version": "1.0.0",
+  "description": "Run Proto's generative-biology tool catalog and sequence-design runs.",
+  "mcpServers": {
+    "proto": { "httpUrl": "https://mcp.evodesign.org/mcp", "oauth": { "enabled": true } }
+  },
+  "contextFileName": "GEMINI.md"
+}
