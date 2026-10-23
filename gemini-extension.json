@@ -1,7 +1,7 @@
 {
   "name": "proto",
   "version": "1.0.0",
-  "description": "Run Proto's generative-biology tool catalog and sequence-design runs.",
+  "description": "Run Proto's generative-biology tool catalog on your own Modal workspace.",
   "mcpServers": {
     "proto": { "httpUrl": "https://mcp.evodesign.org/mcp", "oauth": { "enabled": true } }
   },
